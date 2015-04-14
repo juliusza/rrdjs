@@ -1,7 +1,10 @@
 rrdjs
 =====
 
-Minimal native bindings to the rrdtool libraries. The rrdtool source is embedded to minimize external dependencies.
+Minimal native bindings to the rrdtool libraries. RRD source files are required:
+```
+sudo apt-get install librrd-dev
+```
 
 ## Usage
 

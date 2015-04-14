@@ -4,7 +4,7 @@
 #include <v8.h>
 #include <node.h>
 #include <nan.h>
-#include "../rrdtool/src/rrd.h"
+#include <rrd.h>
 
 namespace rrdjs {
 
