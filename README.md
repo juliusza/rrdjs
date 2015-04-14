@@ -6,6 +6,13 @@ Minimal native bindings to the rrdtool libraries. RRD source files are required:
 sudo apt-get install librrd-dev
 ```
 
+## Package
+```
+  "dependencies": {
+    "rrdjs": "git://github.com/juliusza/rrdjs.git"
+  }
+```
+
 ## Usage
 
 ```javascript
